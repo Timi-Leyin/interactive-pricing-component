@@ -255,6 +255,7 @@ body {
  transition: 0.4s;
 }
 
+
 .card-footer li::before {
  content: attr(data-icon);
  margin: 0 4px;
